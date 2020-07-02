@@ -1,0 +1,9 @@
+C:\IT\GreenTube\WalletManager\WalletManager.Domain\bin\Debug\netcoreapp3.1\WalletManager.Domain.deps.json
+C:\IT\GreenTube\WalletManager\WalletManager.Domain\bin\Debug\netcoreapp3.1\WalletManager.Domain.dll
+C:\IT\GreenTube\WalletManager\WalletManager.Domain\bin\Debug\netcoreapp3.1\WalletManager.Domain.pdb
+C:\IT\GreenTube\WalletManager\WalletManager.Domain\obj\Debug\netcoreapp3.1\WalletManager.Domain.csprojAssemblyReference.cache
+C:\IT\GreenTube\WalletManager\WalletManager.Domain\obj\Debug\netcoreapp3.1\WalletManager.Domain.AssemblyInfoInputs.cache
+C:\IT\GreenTube\WalletManager\WalletManager.Domain\obj\Debug\netcoreapp3.1\WalletManager.Domain.AssemblyInfo.cs
+C:\IT\GreenTube\WalletManager\WalletManager.Domain\obj\Debug\netcoreapp3.1\WalletManager.Domain.csproj.CoreCompileInputs.cache
+C:\IT\GreenTube\WalletManager\WalletManager.Domain\obj\Debug\netcoreapp3.1\WalletManager.Domain.dll
+C:\IT\GreenTube\WalletManager\WalletManager.Domain\obj\Debug\netcoreapp3.1\WalletManager.Domain.pdb
